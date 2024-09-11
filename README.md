@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghozy165
-- 👀 I’m interested in mobile apps
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in website
+- 🌱 I’m currently learning on react framwork
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me ???
 
